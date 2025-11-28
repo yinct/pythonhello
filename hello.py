@@ -13,14 +13,14 @@ label.pack()
 # 显示窗口并进入GUI事件循环
 window.mainloop()
 
-print("hello, world!")
-height = float(input('身高(cm)：'))
-weight = float(input('体重(kg)：'))
-bmi = weight / (height / 100) ** 2
-print(f'{bmi = :.1f}')
-if 18.5 <= bmi < 24:
-    print('你的身材很棒！')
-import time
+#print("hello, world!")
+#height = float(input('身高(cm)：'))
+#weight = float(input('体重(kg)：'))
+#bmi = weight / (height / 100) ** 2
+#print(f'{bmi = :.1f}')
+#if 18.5 <= bmi < 24:
+#    print('你的身材很棒！')
+#import time
 
 
 #for _ in range(1):
