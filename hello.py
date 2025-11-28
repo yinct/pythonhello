@@ -23,6 +23,6 @@ if 18.5 <= bmi < 24:
 import time
 
 
-for _ in range(1):
-    print('hello, world')
-    time.sleep(1)
+#for _ in range(1):
+#    print('hello, world')
+#    time.sleep(1)
